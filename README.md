@@ -1,0 +1,1 @@
+<p>In this Repository I used Selenium webdriver, Pytest and Python to automate several test cases listed under the folder <b>test-cases-files<b/> without using a Pattern Design. You can see the code under the file <b>test_prueba_localizadores.py<b/> <p/>
